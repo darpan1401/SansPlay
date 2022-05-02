@@ -150,3 +150,17 @@ nav ul li{
     opacity: 0;
     transition: opacity 0.4s ease-in;
 }
+
+@media all and (min-width:100px)and (max-width:530px){
+
+    .songItem{
+        font-size: 13px;
+    }
+    .icons{
+        margin-left: 173px;
+    }
+    .songItemPlay{
+        display: block;
+    }
+    
+}
