@@ -13,10 +13,10 @@ let songs = [
     {songName: "Bijlee Bijlee", filePath: "songs/2.mp3", coverPath: "cover/2.PNG"},
     {songName: "Dance Like", filePath: "songs/3.mp3", coverPath: "cover/3.PNG"},
     {songName: "Jee Karr Daa", filePath: "songs/4.mp3", coverPath: "cover/4.PNG"},
-    {songName: "Kudiyan Lahore Diyan", filePath: "songs/5.mp3", coverPath: "cover/5.PNG"},
+    {songName: "Kudiyan", filePath: "songs/5.mp3", coverPath: "cover/5.PNG"},
     {songName: "Kya Baat Ay", filePath: "songs/6.mp3", coverPath: "cover/6.PNG"},
     {songName: "Naah", filePath: "songs/7.mp3", coverPath: "cover/7.PNG"},
-    {songName: "Speaker Phat Jaaye", filePath: "songs/8.mp3", coverPath: "cover/8.PNG"},
+    {songName: "Speaker", filePath: "songs/8.mp3", coverPath: "cover/8.PNG"},
     {songName: "Vaaste", filePath: "songs/9.mp3", coverPath: "cover/9.PNG"},
     {songName: "Bijli ki Taar", filePath: "songs/10.mp3", coverPath: "cover/10.PNG"},
     
